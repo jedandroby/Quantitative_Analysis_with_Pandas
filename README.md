@@ -4,7 +4,7 @@ Challenge 4 for Fintech Bootcamp through UC Berkeley - Quantitative analysis of 
 --- 
 In this Analysis I started by importing the data and cleaning up the data frame. Once i got it to a working condition I quickly analyzed the performance of the various stocks and got a cumulative return over the whole timeframe. The results can be seen in the chart below - 
 
-![cumulative returns for all stocks](./Code/Resources/Cumulative_returns_all.png)
+![cumulative returns for all stocks](./Code/Resources/Cumulative_returns_all.jpg)
 
 Here we can clearly that the S&P 500 was a clear winner over the whole timeframe in terms of returns. After learning this i went ahead and started to analyze the volatility to see what funds were the most/least volatile and how they compared to the S&P 500. 
 
